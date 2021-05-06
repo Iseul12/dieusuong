@@ -1,0 +1,108 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+padding:0px;
+margin: 0px;	
+}
+.navbar-brand img{
+	width: 100px;
+}
+#navbarTogglerDemo03 ul li a{
+	background-color: #242424;
+}
+.banner1{
+
+	background-blend-mode: overlay;
+	background-size: cover;
+	background-image: url("img/3.jfif");
+}
+
+.noidung{
+	padding: 28%;
+	text-align: left;
+	padding-top: 10%
+}
+.row{
+	padding: 55px;
+}
+.tieude{
+	font-size: 20px !important; 
+	color: aliceblue;
+	margin-left: 200px;
+	padding-top: 10%;
+}
+
+.font-weight-light{
+	font-size: 25px;
+	color: #6A6868
+}
+.social{
+	width: 30px;
+	background-color: #C9C3C3;
+		
+}
+.icon a{
+	font-size: 60px;
+	padding: 27px;
+}
+#social{
+	background:#F3F3F3;
+}
+.text h6{
+	font-size: 18px;
+}
+.col-6 img{
+	width: 500px
+}
+.col-6 h5{
+	text-align: left;
+	font-size: 15px;
+}
+.textne{
+	padding-top: 23px;
+}
+
+.coltext{
+	padding-top: 120px;
+}
+.coltext h1{
+	color: aliceblue;
+}	
+.coltext p{
+	color: #938F8F;
+}
+.coltext{
+	padding-left: 250px;
+}
+.lead{
+	text-align: center;
+}
+.col-10 {
+margin: 50px;	
+align-content: center;
+}
+.banner2{
+	background-blend-mode: overlay;
+	background-size: cover;
+	background-image: url("img/hình banner.jfif");
+}
+
+.button2{
+	margin: 0 auto;
+	
+}
+.text{
+	margin-top: 70px;
+}
+footer{
+	background: black;
+	width:100%;
+}
+.footer-copyright a{
+	color: grey;
+	
+}
+.icon{
+	color: #525050;
+}
